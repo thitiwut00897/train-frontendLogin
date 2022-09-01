@@ -3,3 +3,4 @@
 -Touchpad
 -Pincode
 -FigerPrint
+ดูตัวอย่างใน Capture
