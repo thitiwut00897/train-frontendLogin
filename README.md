@@ -2,5 +2,5 @@
 -OTP
 -Touchpad
 -Pincode
--FigerPrint
-ดูตัวอย่างใน Capture
+-FigerPrint</br>
+ดูตัวอย่าง App ใน Screen Capture
